@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 
 
-public class Main {
+ class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static HireEmployee hireEmployee = new HireEmployee();
     private static LinkedList<Songs> list = new LinkedList<>();
