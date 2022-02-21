@@ -1,7 +1,7 @@
 # PizzaManagementSystem 
 This is a Pizza Management System program, in this program we can find features like:
 
--Order a pizza- here we choose to add different toppigs on the pizza. The application should not to let us add more than 1 of the same type of topping.
+-Order a pizza- here we choose to add different toppings on the pizza. The application should not to let us add more than 1 of the same type of topping.
 
 -Hire an employee
 
