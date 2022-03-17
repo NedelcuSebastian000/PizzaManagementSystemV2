@@ -1,5 +1,5 @@
 # PizzaManagementSystem 
-This is a Pizza Management System program, in this program we can find features like:
+This is a Pizzeria Management System program, in this program we can find features like:
 
 -Order a pizza- here we choose to add different toppings on the pizza. The application should not to let us add more than 1 of the same type of topping.
 
@@ -11,8 +11,9 @@ This is a Pizza Management System program, in this program we can find features 
 
 -Change an employee
 
--Playlist manipulation.
+-Playlist manipulation
 
+By using /employees, the list of employees added so far.
 
 By using /help, all the features should appear in the Software application.
 
