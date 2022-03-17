@@ -13,7 +13,7 @@ This is a Pizzeria Management System program, in this program we can find featur
 
 -Playlist manipulation
 
-By using /employees, the list of employees added so far.
+By using /employees, print the list of employees added so far.
 
 By using /help, all the features should appear in the Software application.
 
