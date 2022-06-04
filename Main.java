@@ -10,12 +10,14 @@ public class Main {
     private static LinkedList<Songs> list = new LinkedList<>();
 
     public static void main(String[] args) {
+        
         Songs song2=new Songs("Not Afraid",4.20);
         Songs song3=new Songs("Numb",3.06);
         Songs song4=new Songs("In The End",3.39);
         Songs song5=new Songs("Written in the stars",3.36);
         Songs song6=new Songs("Smells Like Teen Spirit",3.26);
         Songs song7=new Songs("Everybody",4.50);
+        
         list.add(song2);
         list.add(song3);
         list.add(song4);
